@@ -29,7 +29,8 @@ public class Runner {
 		
 		undefined.truth();
 		cat.truth();
-		
+		dog.truth();
+				
 	}
 	
 
